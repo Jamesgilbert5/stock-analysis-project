@@ -8,8 +8,8 @@ From here I created a user, database and set the user's permissions on the datab
 
 >psql
 
->James-# CREATE USER james.gilbert [[WITH] [ENCRYPTED] PASSWORD '********'
+>CREATE USER james.gilbert [[WITH] [ENCRYPTED] PASSWORD '********'
 
->James-# CREATE DATABASE stock_analysis
+>CREATE DATABASE stock_analysis
 
->James-# GRANT ALL PRIVILEGES ON DATABASE stock_analysis TO james.gilbert
+>GRANT ALL PRIVILEGES ON DATABASE stock_analysis TO james.gilbert
