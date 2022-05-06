@@ -5,3 +5,9 @@ first through conda, navigate to virtual_portfolio_env/bin then using pip instal
 explicitly in this virtual environment, therefore the last command I used was'conda install -n virtual_portfolio_env yfinance'
 
 https://stackoverflow.com/questions/41060382/using-pip-to-install-packages-to-anaconda-environment
+
+- updating virtual environment config.yaml afterwards
+
+use https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+-
