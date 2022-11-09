@@ -20,10 +20,10 @@ Using the following
 ### <font color='darkblue'>Project Structure</font>
 I used the following insightful resource to help understand how the project should be structured. I'm sure there could be improvements on the app layout and callback structure, so any suggestions from those with experience would be appreciated.
 
-* assets > contains the static files. Currently it contains a static CSV file that stores stock price and volume data, as well as a Jupyter Notebook file (.ipynb) for downloading and generating the CSV file. in future it will also contain the css stylesheet once created.
-* components > contains the html table code
-* utils > contains the graph generations and calculation functions
-* app.py > main executable file that stores the layout and complex callbacks used within the app
+* **assets folder** > contains the static files. Currently it contains a static CSV file that stores stock price and volume data, as well as a Jupyter Notebook file (.ipynb) for downloading and generating the CSV file. in future it will also contain the css stylesheet once created.
+* **components folder** > contains the html table code
+* **utils folder** > contains the graph generations and calculation functions
+* **app.py** > main executable file that stores the layout and complex callbacks used within the app
 
 
 
