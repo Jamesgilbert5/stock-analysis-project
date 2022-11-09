@@ -1,6 +1,6 @@
 # stock-analysis-project
 
-# <font color='darkblue'>Dash Web App - analysis</font>
+# <span style="color:darkblue">Dash Web App - analysis</span>
 
 ## <font color='darkblue'>Environment variables and running the app</font>
 
