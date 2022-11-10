@@ -16,6 +16,7 @@ Using the following
 * Run the app.py file from the user's chosen IDE (if Jupyter notebook then be sure to convert the app.py file to 
 
 ***Navigation***
+
 please see the [gif header link](#gifs) for navigation.
 
 ### <font color='darkblue'>Project Structure</font>
