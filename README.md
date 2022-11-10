@@ -78,3 +78,7 @@ Where these skills can be used:
 * **Adding earnings values, float, outstanding shares and other metrics** - to get a more complete view on the company's performance and therefore potential reasons for stock performance, adding accounting data points and ratios would be required for the app to live out its true purpose. This data could easily be retrieved from YFinance API and could be stored in a database. The only difficulty is that YFinance uses quarterly references for quarterly earnings and I haven't so far seen a timestamp for when the values are released. This is important to expose because it has a tangible impact on the stock: i.e., real and not estimated earnings release date.
     * This incorporates corporate actions, some of which can be hard to represent such as stock splits and reverse stock splits where the price would have to be amended by the relevant factor.
 * **Market/SEC restrictions**: there can be specific events such as short sale restrictions (alternative uptick rule) when the price experiences a 10% drop from the previous close price, or other general SEC filings revealing impactful information such as insiders altering their share ownership. 
+
+![](app_changing_tabs.gif)
+![](app_comparing_stocks.gif)
+![](app_dragging_to_change_date_range.gif)
