@@ -16,7 +16,7 @@ Using the following
 * Run the app.py file from the user's chosen IDE (if Jupyter notebook then be sure to convert the app.py file to 
 
 ***Navigation***
-please see the ### Gifs for navigation.
+please see the [gif header link](#gifs) for navigation.
 
 ### <font color='darkblue'>Project Structure</font>
 I used the following insightful resource to help understand how the project should be structured. I'm sure there could be improvements on the app layout and callback structure, so any suggestions from those with experience would be appreciated.
@@ -80,7 +80,7 @@ Where these skills can be used:
     * This incorporates corporate actions, some of which can be hard to represent such as stock splits and reverse stock splits where the price would have to be amended by the relevant factor.
 * **Market/SEC restrictions**: there can be specific events such as short sale restrictions (alternative uptick rule) when the price experiences a 10% drop from the previous close price, or other general SEC filings revealing impactful information such as insiders altering their share ownership. 
 
-[gif header link](###gifs)
+# Gifs 
 
 #### Changing tabs:
 ![](app_changing_tabs.gif)
