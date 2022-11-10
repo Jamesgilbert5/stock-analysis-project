@@ -83,13 +83,13 @@ Where these skills can be used:
 # Gifs 
 
 #### Changing tabs:
-![](app_changing_tabs.gif)
+![](images/app_changing_tabs.gif)
 
 #### Comparing stocks:
-![](app_comparing_stocks.gif)
+![](images/app_comparing_stocks.gif)
 
 #### Changing date ranges by dragging
-![](app_dragging_to_change_date_range.gif)
+![](images/app_dragging_to_change_date_range.gif)
 
 #### Resetting date ranges by double clicking the graph
-![](app_resetting_date_range.gif)
+![](images/app_resetting_date_range.gif)
