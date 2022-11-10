@@ -8,7 +8,7 @@ Please find the <code>config.yaml</code> file in the **INSERT WHERE** folder in 
 
 Using the following 
 
-***Steps***
+***Steps*** [NEEDS WRITING]
 
 * First create a folder locally where you wish for the project repository to be stored and run from
 * Creating a virtual environment with the *config.yaml* file to replicate the package versions used in this project
